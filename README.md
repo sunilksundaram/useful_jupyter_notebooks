@@ -1,5 +1,5 @@
-# useful_jupyter_notebooks
-List of useful Jupyter Notebooks
+# Useful Jupyter Notebooks
+Collection of useful Jupyter Notebooks
 
 ## A. Smart DownLoader
 
